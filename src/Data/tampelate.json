@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name":"classic",
+        "imgUrl": "/images/PDFs/Template1.png"
+    },
+    {
+        "id": 2,
+        "name":"shapes",
+        "imgUrl":"/images/PDFs/Template2.png",
+        "config":""        
+
+ 
+
+    },
+    {
+        "id": 3,
+        "name":"blank",
+        "imgUrl":"/images/PDFs/Template3.png",
+        "config":""        
+
+    }
+]
+
