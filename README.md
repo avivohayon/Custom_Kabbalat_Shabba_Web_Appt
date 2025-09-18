@@ -5,6 +5,8 @@
 Welcome to the Kabbalat Shabbat Customizer, a web application designed to help individuals reconnect with their Jewish traditions in a personalized way.
 This project reflects my passion for combining technology and cultural heritage, and my commitment to making a positive impact in the world.
 
+[Watch this video](https://www.youtube.com/watch?v=xJfJdqW4zMw)
+
 ## About me
 I am a dedicated developer who believes in the power of technology to bring people together and enhance our lives. In addition to my professional work, I have volunteered for social enterprises like Max Impact and Tmura. These experiences have instilled in me a deep appreciation for the importance of social responsibility and the potential for technology to create meaningful change.
 
